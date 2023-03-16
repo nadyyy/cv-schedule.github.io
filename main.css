@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(35, 201, 243);
+}
+.name{
+  position: relative;
+  text-align:center;
+  font-size: 65px ;
+}
+
+button{
+  position: relative;
+  bottom: -100px;
+  right: -520px;
+  border: 2px solid black;
+background-color: white;
+color: black;
+padding: 14px 28px;
+font-size: 16px;
+cursor: pointer;
+border-color: black;
+  color: dodgerblblackue
+}
+
+button:hover {
+  background: rgb(35, 201, 243);
+  color: black;
+}
